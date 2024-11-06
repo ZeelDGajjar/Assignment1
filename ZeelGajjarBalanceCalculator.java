@@ -29,6 +29,7 @@ public class ZeelGajjarBalanceCalculator {
 
         System.out.println("\n");
 
+        System.out.println("gbMMMM!!!!!");
 
         //Printing the information recieved
         System.out.printf("Initial Balance %7s %5.2f \n", ":", intialBalance); 
