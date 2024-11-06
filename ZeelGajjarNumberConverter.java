@@ -2,14 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package zeelgajjarnumberconverter;
+package ZeelGajjarNumberConverter;
 import java.util.*;
 /**
  *
  * @author 2474008
  */
 public class ZeelGajjarNumberConverter {
-
     /**
      * @param args the command line arguments
      */
